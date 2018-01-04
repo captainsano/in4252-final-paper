@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{glickman1995glicko}
+M.~E. Glickman.
+\newblock The glicko system.
+\newblock {\em Boston University}, 1995.
+
+\bibitem{vaci2017chess}
+N.~Vaci and M.~Bilali{\'c}.
+\newblock Chess databases as a research vehicle in psychology: Modeling large
+  data.
+\newblock {\em Behavior research methods}, 49(4):1227--1240, 2017.
+
+\bibitem{vevcek2014comparison}
+N.~Ve{\v{c}}ek, M.~{\v{C}}repin{\v{s}}ek, M.~Mernik, and D.~Hrn{\v{c}}i{\v{c}}.
+\newblock A comparison between different chess rating systems for ranking
+  evolutionary algorithms.
+\newblock In {\em Computer Science and Information Systems (FedCSIS), 2014
+  Federated Conference on}, pages 511--518. IEEE, 2014.
+
+\end{thebibliography}
